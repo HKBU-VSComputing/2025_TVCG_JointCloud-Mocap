@@ -1,0 +1,14 @@
+name: jcsat_mocap
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - einops==0.8.0
+    - opencv-python
+    - timm==1.0.12
+    - tqdm
+    - scikit-image

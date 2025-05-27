@@ -1,0 +1,3 @@
+[submodule "thirdparty/OTK"]
+	path = thirdparty/OTK
+	url = https://github.com/claying/OTK
