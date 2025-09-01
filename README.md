@@ -1,7 +1,7 @@
 <h1 align="center">Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud</h1> 
 <h3 align="center">IEEE Transactions on Visualization and Computer Graphics</h3> 
 <h3 align="center">
-<a href="https://arxiv.org/abs/2502.02936">Paper</a> | <a href="https://jjkislele.github.io/pages/projects/jcsatMocap/">Project Page</a> 
+<a href="https://arxiv.org/abs/2502.02936">Paper</a> | <a href="https://jjkislele.github.io/pages/projects/jcsatMocap/">Project Page</a> | <a href="https://jjkislele.github.io/pages/projects/hkbuMocapX/">Dataset</a>
 </h3> 
 
 ## Installation
